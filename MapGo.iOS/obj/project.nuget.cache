@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "kOmlMwEpJKy1vxBz5i8VJD9YMepwkpTrHv/fv/+Hu1m8sQ8rbYY4yfYeAcuA766JC27lbiQHRwQxVwkvQ9itVQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\52553\\source\\repos\\MapGo\\MapGo\\MapGo.iOS\\MapGo.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\52553\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\52553\\.nuget\\packages\\xamarin.build.download\\0.11.0\\xamarin.build.download.0.11.0.nupkg.sha512",
+    "C:\\Users\\52553\\.nuget\\packages\\xamarin.essentials\\1.8.1\\xamarin.essentials.1.8.1.nupkg.sha512",
+    "C:\\Users\\52553\\.nuget\\packages\\xamarin.forms\\5.0.0.2662\\xamarin.forms.5.0.0.2662.nupkg.sha512",
+    "C:\\Users\\52553\\.nuget\\packages\\xamarin.forms.googlemaps\\5.0.0\\xamarin.forms.googlemaps.5.0.0.nupkg.sha512",
+    "C:\\Users\\52553\\.nuget\\packages\\xamarin.google.ios.maps\\6.0.1.1\\xamarin.google.ios.maps.6.0.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Users\52553\source\repos\MapGo\MapGo\MapGo\bin\Debug\netstandard2.0\MapGo.deps.json
+C:\Users\52553\source\repos\MapGo\MapGo\MapGo\bin\Debug\netstandard2.0\MapGo.dll
+C:\Users\52553\source\repos\MapGo\MapGo\MapGo\bin\Debug\netstandard2.0\ref\MapGo.dll
+C:\Users\52553\source\repos\MapGo\MapGo\MapGo\bin\Debug\netstandard2.0\MapGo.pdb
+C:\Users\52553\source\repos\MapGo\MapGo\MapGo\obj\Debug\netstandard2.0\MapGo.csproj.AssemblyReference.cache
+C:\Users\52553\source\repos\MapGo\MapGo\MapGo\obj\Debug\netstandard2.0\MapGo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\52553\source\repos\MapGo\MapGo\MapGo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\52553\source\repos\MapGo\MapGo\MapGo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\52553\source\repos\MapGo\MapGo\MapGo\obj\Debug\netstandard2.0\MapGo.AssemblyInfoInputs.cache
+C:\Users\52553\source\repos\MapGo\MapGo\MapGo\obj\Debug\netstandard2.0\MapGo.AssemblyInfo.cs
+C:\Users\52553\source\repos\MapGo\MapGo\MapGo\obj\Debug\netstandard2.0\MapGo.csproj.CoreCompileInputs.cache
+C:\Users\52553\source\repos\MapGo\MapGo\MapGo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\52553\source\repos\MapGo\MapGo\MapGo\obj\Debug\netstandard2.0\MapGo.dll
+C:\Users\52553\source\repos\MapGo\MapGo\MapGo\obj\Debug\netstandard2.0\refint\MapGo.dll
+C:\Users\52553\source\repos\MapGo\MapGo\MapGo\obj\Debug\netstandard2.0\MapGo.pdb
